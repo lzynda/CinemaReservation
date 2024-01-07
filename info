@@ -1,0 +1,10 @@
+mongodb://localhost:27017
+
+npm init 
+npm i express mongoose
+npm i --save-dev dotenv
+npm install -g nodemon
+
+npm run devStart
+
+
